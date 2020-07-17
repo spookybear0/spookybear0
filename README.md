@@ -14,4 +14,4 @@
 
 ## About me
 
-I am a 13 year old programmer, I have 2 years of experience in python. Other than programming, I do gaming and talk with friends on discord.
+Hi, I am a programmer and have 2 years of experience in python. Other than programming, I do gaming and talk with friends on discord.
