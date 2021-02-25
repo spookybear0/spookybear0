@@ -10,4 +10,11 @@
 
 ## About me
 
-Hi, I am a python programmer and have 3 years of experience in python.
+I am a python programmer. I have 3 years of experience in python.
+
+## Projects I am working on
+<p float="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=gd-star-pp&repo=website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95" hspace="20"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=maple-ml&repo=cinnamon&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95" hspace="20"/>
+</p>
