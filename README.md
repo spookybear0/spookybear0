@@ -1,4 +1,4 @@
-# Hi, im SpookyBear.
+# Hello, I am spookybear0, but I usually go by spook.
 
 ### I python is my main programming language, and I also make mods for Geometry Dash. I also play osu! in my free time.
 
