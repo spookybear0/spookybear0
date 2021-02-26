@@ -12,7 +12,7 @@
 
 I am a python programmer. I have 3 years of experience in python.
 
-## Projects I am working on
+## Projects
 <p float="center">
  
  <a href="https://github.com/gd-star-pp/website/">
@@ -24,3 +24,7 @@ I am a python programmer. I have 3 years of experience in python.
   </a>
   
 </p>
+
+## GitHub
+
+![Spook's GitHub stats](https://github-readme-stats.vercel.app/api?username=spookybear0&show_icons=true&theme=omni)
