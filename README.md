@@ -16,7 +16,7 @@ I am a python programmer. I have 3 years of experience in python.
 <p float="center">
  
  <a href="https://github.com/gd-star-pp/website/">
- <img src="https://github-readme-stats.vercel.app/api/pin?username=gd-star-pp&repo=website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95" hspace="10" width="45%"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=lotus-gd&repo=lotus-web&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95" hspace="10" width="45%"/>
   </a>
  
   <a href="https://github.com/maple-ml/cinnamon/">
