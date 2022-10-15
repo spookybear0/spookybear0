@@ -1,6 +1,6 @@
 # Hello, I am spookybear0.
 
-### I python is my main programming language, and I also make mods for Geometry Dash. I also play osu! in my free time.
+### Hi, python is my main programming language, and I also make mods for Geometry Dash. I also play osu! in my free time.
 
 ## Social medias
 <a href="https://twitter.com/Bear0Spooky"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="50" title="Twitter"></a>
