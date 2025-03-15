@@ -27,8 +27,8 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 ### **[Laserforce Ranking](https://github.com/spookybear0/laserforce_ranking)**
 
 <p align="middle">
-    <img src="https://github.com/user-attachments/assets/50fa84ec-5e35-4af1-ba46-e047f2d54620" alt="Laserforce Ranking Picture1" width="49%"/>
-    <img src="https://github.com/user-attachments/assets/4f9bbfea-99ea-4288-a105-ce98d56623f3" alt="Laserforce Ranking Picture2" width="49%"/>
+    <img src="https://github.com/user-attachments/assets/50fa84ec-5e35-4af1-ba46-e047f2d54620" alt="Laserforce Ranking Picture 1" width="49%"/>
+    <img src="https://github.com/user-attachments/assets/4f9bbfea-99ea-4288-a105-ce98d56623f3" alt="Laserforce Ranking Picture 2" width="49%"/>
 </p>
 
 **Laserforce Ranking is a ranking, matchmaking, and statistics system made to create fair and competitive laser tag games.**
@@ -67,10 +67,10 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 
 ### **[Godot Portal Demo](https://github.com/spookybear0/godot_portal_demo)**
 
-[comment]: # (TODO: add picture)
-
+[comment]: # (TODO: add better pictures)
 <p align="middle">
-    
+    <img src="https://github.com/user-attachments/assets/eec8c0a3-ce0e-4192-bd22-0e685121a9bd" alt="Godot Portal Demo Picture 1" width="49%"/>
+    <img src="https://github.com/user-attachments/assets/ef116f3e-4b1d-462e-aade-96d7b6e8dd30" alt="Godot Portal Demo Picture 2" width="49%"/>
 </p>
 
 🔹 **Simulates seamless teleportation between two portals.**
