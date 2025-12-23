@@ -81,26 +81,6 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 
 🔹 **Recreation of Portal by Valve.**
 
-
----
-
-
-### **[Vortex Guitar Pedal](https://github.com/spookybear0/guitar_pedal)**
-
-[comment]: # (TODO: add picture when complete)
-
-<p align="middle">
-    
-</p>
-
-🔹 **Allows for 8 custom effectives with 3 paramaters each.**
-
-🔹 **Bluetooth connectivity to [Guitar Pedal App](https://github.com/spookybear0/guitar_pedal_app).**
-
-🔹 **Built with: C++ and the Arduino framework.**
-
-🔹 **This is my current project!**
-
 ## Contact
 - **Discord: @spookybear0**
 - **Email: [collinmcarroll@gmail.com](mailto:collinmcarroll@gmail.com)**
