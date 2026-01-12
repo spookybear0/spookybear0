@@ -47,10 +47,8 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 
 ### **[Wooting Keypad](https://github.com/spookybear0/wooting_keypad)**
 
-[comment]: # (TODO: add picture)
-
 <p align="middle">
-    
+    <img width="25%" alt="image" src="https://github.com/user-attachments/assets/917470a9-0587-4f65-8a53-5bcd65fce221" />
 </p>
 
 🔹 **Pressure-sensitive keys allow precise input control.**
@@ -60,9 +58,6 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 🔹 **Built with: C++ and Arduino.**
 
 🔹 **Designed for osu! players looking for competitive edge.**
-
-
----
 
 
 ### **[Godot Portal Demo](https://github.com/spookybear0/godot_portal_demo)**
