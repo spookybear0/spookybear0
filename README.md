@@ -78,4 +78,4 @@ I'm a self-taught programmer who is passionate about backend (and sometimes fron
 
 ## Contact
 - **Discord: @spookybear0**
-- **Email: [chloecarroll103.com](mailto:chloecarroll103@gmail.com)**
+- **Email: [chloecarroll103@gmail.com](mailto:chloecarroll103@gmail.com)**
